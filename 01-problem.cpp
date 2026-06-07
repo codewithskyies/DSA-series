@@ -1,25 +1,32 @@
 #include <iostream>
 using namespace std;
 
-
- int cnt=0;
- void print(){
-
-    if (cnt ==0) return;
-
-    cout<<cnt << endl;
-    cnt++;
-    print();
+bool isPowerOfTwo(int n){
+    if (n<=0) return false;
 
 
-    
+    while (n%2==0) {
+        n /=2;
 
- }
+    }
 
-int main() {
-   freopen ("input.txt","r",stdin);
-   freopen ("output.txt","w",stdout);
+    return(n==1);
 
-   print();
 
-   return 0;
+
+}
+
+int main () {
+    int num ;
+     cout << "Enter the number \n";
+     cin >>num ;
+     if (isPowerOfTwo(num))
+     
+     cout << "num is power of 2 \n";
+     else 
+     cout << "num is not power of 2\n";
+
+     return 0;
+
+
+}
