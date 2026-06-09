@@ -1,9 +1,14 @@
 #include <stdio.h>
+float average (int a ,int b, int c);
+float average (int a,int b, int c){
+    return (a+b+c)/3.0;
+
+}
 
 int main() {
-    int a[]={1,2,4,5,6,7,8,};
-    int *ptr =a ;
+    int a=3, b=6, c=9;
+    printf("The average is a ,b and c is %f" ,average (a,b,c));
 
-    printf("the value of addresss is %u is %d ",ptr+3,*(ptr+3));
+    
     return 0;
 }
