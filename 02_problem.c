@@ -1,12 +1,17 @@
 #include <stdio.h>
 
 int main() {
-    int length =3;
-    int breadth=6;
-    int length, breadth;
-    printf("enter lenght\n");
-    scanf("%d", &breadth);
-    printf("Enter the Breadth\n");
-    printf("The area of this rectange  is %d", length*breadth);
+    float celsius,farenheit;
+
+    printf("enter a temperatue in celsius:");
+    scanf("%f",&celsius);
+
+    farenheit =(celsius*9/5)+32;
+
+
+    printf("%.2f celsius is equivalent to %.2f Farenheit.\n",celsius,farenheit);
+    
+
+     
     return 0;
 }
