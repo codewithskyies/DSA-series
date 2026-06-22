@@ -1,14 +1,35 @@
 #include <stdio.h>
-float average (int a ,int b, int c);
-float average (int a,int b, int c){
-    return (a+b+c)/3.0;
 
-}
+int main()
+{
+    FILE*ptr;
+    ptr = fopen("harry2.txt", "r");
 
-int main() {
-    int a=3, b=6, c=9;
-    printf("The average is a ,b and c is %f" ,average (a,b,c));
+    if (ptr= Null ){
+        printf("This fil eis not exist sorry!\n");
+    }
+        
+    
+    int num;
+    fscanf(ptr , "%d",&num);
+    printf("The value of num is %d\n",num);
+    fscanf(ptr , "%d",&num);
+    printf("The value of num is %d\n",num);
+
+
+
+    fclose (ptr);
+
+
+
+
+
 
     
+
+
+
+    
+
     return 0;
 }
