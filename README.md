@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/codewithskyies/DSA-series/tree/master/0491-non-decreasing-subsequences) |
 | [2305-fair-distribution-of-cookies](https://github.com/codewithskyies/DSA-series/tree/master/2305-fair-distribution-of-cookies) |
 ## Dynamic Programming
 |  |
@@ -12,13 +13,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/codewithskyies/DSA-series/tree/master/0491-non-decreasing-subsequences) |
 | [2305-fair-distribution-of-cookies](https://github.com/codewithskyies/DSA-series/tree/master/2305-fair-distribution-of-cookies) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/codewithskyies/DSA-series/tree/master/0491-non-decreasing-subsequences) |
 | [2305-fair-distribution-of-cookies](https://github.com/codewithskyies/DSA-series/tree/master/2305-fair-distribution-of-cookies) |
 ## Bitmask
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/codewithskyies/DSA-series/tree/master/2305-fair-distribution-of-cookies) |
+## Hash Table
+|  |
+| ------- |
+| [0491-non-decreasing-subsequences](https://github.com/codewithskyies/DSA-series/tree/master/0491-non-decreasing-subsequences) |
 <!---LeetCode Topics End-->
