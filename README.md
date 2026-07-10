@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/codewithskyies/DSA-series/tree/master/0040-combination-sum-ii) |
 | [0377-combination-sum-iv](https://github.com/codewithskyies/DSA-series/tree/master/0377-combination-sum-iv) |
 | [0491-non-decreasing-subsequences](https://github.com/codewithskyies/DSA-series/tree/master/0491-non-decreasing-subsequences) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/codewithskyies/DSA-series/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/codewithskyies/DSA-series/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0040-combination-sum-ii](https://github.com/codewithskyies/DSA-series/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/codewithskyies/DSA-series/tree/master/0077-combinations) |
 | [0491-non-decreasing-subsequences](https://github.com/codewithskyies/DSA-series/tree/master/0491-non-decreasing-subsequences) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/codewithskyies/DSA-series/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
