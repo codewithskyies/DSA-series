@@ -50,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/codewithskyies/DSA-series/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/codewithskyies/DSA-series/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codewithskyies/DSA-series/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/codewithskyies/DSA-series/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/codewithskyies/DSA-series/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/codewithskyies/DSA-series/tree/master/0901-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/codewithskyies/DSA-series/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
