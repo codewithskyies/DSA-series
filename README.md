@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0377-combination-sum-iv](https://github.com/codewithskyies/DSA-series/tree/master/0377-combination-sum-iv) |
+| [0509-fibonacci-number](https://github.com/codewithskyies/DSA-series/tree/master/0509-fibonacci-number) |
 | [2305-fair-distribution-of-cookies](https://github.com/codewithskyies/DSA-series/tree/master/2305-fair-distribution-of-cookies) |
 ## Backtracking
 |  |
@@ -85,10 +86,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codewithskyies/DSA-series/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0509-fibonacci-number](https://github.com/codewithskyies/DSA-series/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/codewithskyies/DSA-series/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/codewithskyies/DSA-series/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/codewithskyies/DSA-series/tree/master/2390-removing-stars-from-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/codewithskyies/DSA-series/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/codewithskyies/DSA-series/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
