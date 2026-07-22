@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/codewithskyies/DSA-series/tree/master/0040-combination-sum-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codewithskyies/DSA-series/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0198-house-robber](https://github.com/codewithskyies/DSA-series/tree/master/0198-house-robber) |
 | [0377-combination-sum-iv](https://github.com/codewithskyies/DSA-series/tree/master/0377-combination-sum-iv) |
 | [0491-non-decreasing-subsequences](https://github.com/codewithskyies/DSA-series/tree/master/0491-non-decreasing-subsequences) |
 | [0739-daily-temperatures](https://github.com/codewithskyies/DSA-series/tree/master/0739-daily-temperatures) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/codewithskyies/DSA-series/tree/master/0198-house-robber) |
 | [0377-combination-sum-iv](https://github.com/codewithskyies/DSA-series/tree/master/0377-combination-sum-iv) |
 | [0509-fibonacci-number](https://github.com/codewithskyies/DSA-series/tree/master/0509-fibonacci-number) |
 | [2305-fair-distribution-of-cookies](https://github.com/codewithskyies/DSA-series/tree/master/2305-fair-distribution-of-cookies) |
