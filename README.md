@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/codewithskyies/DSA-series/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/codewithskyies/DSA-series/tree/master/0403-frog-jump) |
 | [0491-non-decreasing-subsequences](https://github.com/codewithskyies/DSA-series/tree/master/0491-non-decreasing-subsequences) |
+| [0646-maximum-length-of-pair-chain](https://github.com/codewithskyies/DSA-series/tree/master/0646-maximum-length-of-pair-chain) |
 | [0739-daily-temperatures](https://github.com/codewithskyies/DSA-series/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/codewithskyies/DSA-series/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/codewithskyies/DSA-series/tree/master/1441-build-an-array-with-stack-operations) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/codewithskyies/DSA-series/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/codewithskyies/DSA-series/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/codewithskyies/DSA-series/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/codewithskyies/DSA-series/tree/master/0646-maximum-length-of-pair-chain) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/codewithskyies/DSA-series/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2305-fair-distribution-of-cookies](https://github.com/codewithskyies/DSA-series/tree/master/2305-fair-distribution-of-cookies) |
 ## Backtracking
@@ -120,4 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/codewithskyies/DSA-series/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/codewithskyies/DSA-series/tree/master/0646-maximum-length-of-pair-chain) |
+## Greedy
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/codewithskyies/DSA-series/tree/master/0646-maximum-length-of-pair-chain) |
+## Sorting
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/codewithskyies/DSA-series/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
