@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codewithskyies/DSA-series/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/codewithskyies/DSA-series/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/codewithskyies/DSA-series/tree/master/0040-combination-sum-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codewithskyies/DSA-series/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/codewithskyies/DSA-series/tree/master/0162-find-peak-element) |
@@ -140,12 +141,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/codewithskyies/DSA-series/tree/master/0015-3sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/codewithskyies/DSA-series/tree/master/0646-maximum-length-of-pair-chain) |
 | [0977-squares-of-a-sorted-array](https://github.com/codewithskyies/DSA-series/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/codewithskyies/DSA-series/tree/master/1048-longest-string-chain) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/codewithskyies/DSA-series/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/codewithskyies/DSA-series/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/codewithskyies/DSA-series/tree/master/1048-longest-string-chain) |
 ## Interactive
