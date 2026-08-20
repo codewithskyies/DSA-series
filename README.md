@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/codewithskyies/DSA-series/tree/master/0403-frog-jump) |
 | [0491-non-decreasing-subsequences](https://github.com/codewithskyies/DSA-series/tree/master/0491-non-decreasing-subsequences) |
 | [0646-maximum-length-of-pair-chain](https://github.com/codewithskyies/DSA-series/tree/master/0646-maximum-length-of-pair-chain) |
+| [0713-subarray-product-less-than-k](https://github.com/codewithskyies/DSA-series/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/codewithskyies/DSA-series/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/codewithskyies/DSA-series/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/codewithskyies/DSA-series/tree/master/0977-squares-of-a-sorted-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/codewithskyies/DSA-series/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/codewithskyies/DSA-series/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/codewithskyies/DSA-series/tree/master/0300-longest-increasing-subsequence) |
+| [0713-subarray-product-less-than-k](https://github.com/codewithskyies/DSA-series/tree/master/0713-subarray-product-less-than-k) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -155,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/codewithskyies/DSA-series/tree/master/0278-first-bad-version) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/codewithskyies/DSA-series/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/codewithskyies/DSA-series/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
