@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/codewithskyies/DSA-series/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0844-backspace-string-compare](https://github.com/codewithskyies/DSA-series/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codewithskyies/DSA-series/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1048-longest-string-chain](https://github.com/codewithskyies/DSA-series/tree/master/1048-longest-string-chain) |
 | [2390-removing-stars-from-a-string](https://github.com/codewithskyies/DSA-series/tree/master/2390-removing-stars-from-a-string) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/codewithskyies/DSA-series/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/codewithskyies/DSA-series/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/codewithskyies/DSA-series/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/codewithskyies/DSA-series/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/codewithskyies/DSA-series/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/codewithskyies/DSA-series/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codewithskyies/DSA-series/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/codewithskyies/DSA-series/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/codewithskyies/DSA-series/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/codewithskyies/DSA-series/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/codewithskyies/DSA-series/tree/master/2390-removing-stars-from-a-string) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/codewithskyies/DSA-series/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/codewithskyies/DSA-series/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/codewithskyies/DSA-series/tree/master/0075-sort-colors) |
+| [0844-backspace-string-compare](https://github.com/codewithskyies/DSA-series/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/codewithskyies/DSA-series/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/codewithskyies/DSA-series/tree/master/1048-longest-string-chain) |
 ## Interactive
