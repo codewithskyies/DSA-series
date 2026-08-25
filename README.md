@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/codewithskyies/DSA-series/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/codewithskyies/DSA-series/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0141-linked-list-cycle](https://github.com/codewithskyies/DSA-series/tree/master/0141-linked-list-cycle) |
 | [0491-non-decreasing-subsequences](https://github.com/codewithskyies/DSA-series/tree/master/0491-non-decreasing-subsequences) |
 | [1048-longest-string-chain](https://github.com/codewithskyies/DSA-series/tree/master/1048-longest-string-chain) |
 ## Enumeration
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/codewithskyies/DSA-series/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/codewithskyies/DSA-series/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/codewithskyies/DSA-series/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/codewithskyies/DSA-series/tree/master/0141-linked-list-cycle) |
 | [0844-backspace-string-compare](https://github.com/codewithskyies/DSA-series/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/codewithskyies/DSA-series/tree/master/0977-squares-of-a-sorted-array) |
 | [1048-longest-string-chain](https://github.com/codewithskyies/DSA-series/tree/master/1048-longest-string-chain) |
@@ -187,5 +189,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/codewithskyies/DSA-series/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/codewithskyies/DSA-series/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/codewithskyies/DSA-series/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
