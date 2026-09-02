@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/codewithskyies/DSA-series/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/codewithskyies/DSA-series/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/codewithskyies/DSA-series/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/codewithskyies/DSA-series/tree/master/0234-palindrome-linked-list) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/codewithskyies/DSA-series/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/codewithskyies/DSA-series/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/codewithskyies/DSA-series/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/codewithskyies/DSA-series/tree/master/0509-fibonacci-number) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/codewithskyies/DSA-series/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/codewithskyies/DSA-series/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/codewithskyies/DSA-series/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/codewithskyies/DSA-series/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/codewithskyies/DSA-series/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/codewithskyies/DSA-series/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/codewithskyies/DSA-series/tree/master/0287-find-the-duplicate-number) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/codewithskyies/DSA-series/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/codewithskyies/DSA-series/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/codewithskyies/DSA-series/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/codewithskyies/DSA-series/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/codewithskyies/DSA-series/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/codewithskyies/DSA-series/tree/master/0876-middle-of-the-linked-list) |
